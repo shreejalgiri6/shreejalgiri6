@@ -11,6 +11,7 @@ I make cinematic motion graphics and edits in DaVinci Resolve and Fusion, build 
 - 🧠 Claude Code skills for video workflows
 
 ## Featured
+- [motion-design-showcase](https://github.com/shreejalgiri6/motion-design-showcase): a 30 s ad where every frame is original Fusion artwork, generated from Python
 - [claude-video-mastery-skills](https://github.com/shreejalgiri6/claude-video-mastery-skills): 13 Claude Code skills for professional Resolve/Fusion editing
 
 ## Find me
