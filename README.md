@@ -1,6 +1,6 @@
 # Hi, I'm Shreejal Giri 👋
 
-**Motion designer · video editor · robotics builder** from Nepal 🇳🇵 · basketball #8 🏀
+**Motion designer · video editor · robotics builder** from Nepal 🇳🇵 · 
 
 I make cinematic motion graphics and edits in DaVinci Resolve and Fusion, build small robotics projects, and use Claude to speed up the boring parts.
 
